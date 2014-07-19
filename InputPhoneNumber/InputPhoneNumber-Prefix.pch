@@ -13,4 +13,10 @@
 #ifdef __OBJC__
     #import <UIKit/UIKit.h>
     #import <Foundation/Foundation.h>
+    #import "CountryPicker.h"
+    #import "NBAsYouTypeFormatter.h"
+    #import "NBPhoneNumberUtil.h"
+    #import "ZRoundedView.h"
+    #import "UIButton+Rounded.h"
+    #import "SIAlertView.h"
 #endif
