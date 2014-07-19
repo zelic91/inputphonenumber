@@ -6,12 +6,15 @@ Screenshots:
 
 ![alt text](https://github.com/zelic91/inputphonenumber/blob/master/screen_01.png "Screenshot 1")
 
+===
 
 ![alt text](https://github.com/zelic91/inputphonenumber/blob/master/screen_02.png "Screenshot 2")
 
+===
 
 ![alt text](https://github.com/zelic91/inputphonenumber/blob/master/screen_03.png "Screenshot 3")
 
+===
 
 ![alt text](https://github.com/zelic91/inputphonenumber/blob/master/screen_04.png "Screenshot 4")
 
