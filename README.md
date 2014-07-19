@@ -4,13 +4,13 @@ This is an iOS app that allow user choose her country and input her phone number
 
 Screenshots:
 
-<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_01.png" style="border: 1px solid #CCC;" alt="Screenshot 1"/>
+<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_01.png" border="1" alt="Screenshot 1"/>
 
-<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_02.png" style="border: 1px solid #CCC;" alt="Screenshot 2"/>
+<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_02.png" border="1" alt="Screenshot 2"/>
 
-<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_03.png" style="border: 1px solid #CCC;" alt="Screenshot 3"/>
+<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_03.png" border="1" alt="Screenshot 3"/>
 
-<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_04.png" style="border: 1px solid #CCC;" alt="Screenshot 4"/>
+<img src="https://github.com/zelic91/inputphonenumber/blob/master/screen_04.png" border="1" alt="Screenshot 4"/>
 
 
 =========
